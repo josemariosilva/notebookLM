@@ -12,7 +12,7 @@ A proposta foi utilizar Inteligência Artificial como ferramenta de apoio ao apr
 
 ---
 
-# 📖 Tema de Estudo
+# Tema de Estudo
 
 **Testes de Software**
 
